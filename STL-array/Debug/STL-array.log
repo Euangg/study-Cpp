@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(STL-array.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  array.cpp
+C:\Users\you\source\repos\CppChengZhang\STL-array\array.cpp(43,16): warning C4101: “arr1”: 未引用的局部变量
+C:\Users\you\source\repos\CppChengZhang\STL-array\array.cpp(91,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\you\source\repos\CppChengZhang\STL-array\array.cpp(112,11): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  STL-array.vcxproj -> C:\Users\you\source\repos\CppChengZhang\Debug\STL-容器-array.exe

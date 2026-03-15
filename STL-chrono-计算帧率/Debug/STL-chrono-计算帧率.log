@@ -1,0 +1,4 @@
+﻿  计算帧率.cpp
+C:\Users\you\source\repos\CppChengZhang\STL-chrono-计算帧率\计算帧率.cpp(15,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\you\source\repos\CppChengZhang\STL-chrono-计算帧率\计算帧率.cpp(33,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  STL-chrono-计算帧率.vcxproj -> C:\Users\you\source\repos\CppChengZhang\Debug\STL-chrono-计算帧率.exe

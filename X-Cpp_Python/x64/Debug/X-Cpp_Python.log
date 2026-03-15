@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(X-Cpp_Python.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  X-Cpp_Python.vcxproj -> C:\Users\you\source\repos\CppChengZhang\x64\Debug\X-Cpp_Python-Console.exe

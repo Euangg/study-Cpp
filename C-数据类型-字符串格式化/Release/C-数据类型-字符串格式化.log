@@ -1,0 +1,19 @@
+﻿  字符串格式化.cpp
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(6,23): error C2664: “int snprintf(char *const ,const size_t,const char *const ,...)”: 无法将参数 3 从“const _Elem *”转换为“const char *const ”
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(6,56): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1919,37): message : 参见“snprintf”的声明
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(18): message : 查看对正在编译的函数 模板 实例化“std::wstring wstr_format<int,int,int>(const std::wstring &,int,int,int)”的引用
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(5,1): error C3536: “size_buf”: 初始化之前无法使用
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(10,22): error C2440: “<function-style-cast>”: 无法从“const char [1]”转换为“std::wstring”
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(5,1): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(12,7): error C2664: “int snprintf(char *const ,const size_t,const char *const ,...)”: 无法将参数 3 从“const _Elem *”转换为“const char *const ”
+          with
+          [
+              _Elem=wchar_t
+          ]
+C:\Users\you\source\repos\CppChengZhang\C-数据类型-字符串格式化\字符串格式化.cpp(12,49): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1919,37): message : 参见“snprintf”的声明

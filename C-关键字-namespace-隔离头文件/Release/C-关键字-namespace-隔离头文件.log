@@ -1,0 +1,9 @@
+﻿  namespace隔离头文件.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(65,95): error C2440: “初始化”: 无法从“const _GUID”转换为“d2d::_GUID”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(65,66): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(65,95): error C2440: “初始化”: 无法从“const _GUID”转换为“const d2d::GUID”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(65,66): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(71,77): error C2440: “初始化”: 无法从“const _GUID”转换为“d2d::_GUID”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(71,57): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(71,77): error C2440: “初始化”: 无法从“const _GUID”转换为“const d2d::GUID”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\xaudio2.h(71,57): message : 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符

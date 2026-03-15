@@ -1,0 +1,4 @@
+﻿  dll变量.cpp
+    正在创建库 C:\Users\you\source\repos\CppChengZhang\Debug\Windows-dll-07动态库封装变量.lib 和对象 C:\Users\you\source\repos\CppChengZhang\Debug\Windows-dll-07动态库封装变量.exp
+LINK : warning LNK4232: 名称 Windows-dll-07动态库封装变量.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  Windows-dll-07动态库封装变量.vcxproj -> C:\Users\you\source\repos\CppChengZhang\Debug\Windows-dll-07动态库封装变量.dll

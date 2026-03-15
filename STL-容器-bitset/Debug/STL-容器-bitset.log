@@ -1,0 +1,5 @@
+﻿  bitset.cpp
+C:\Users\you\source\repos\CppChengZhang\STL-容器-bitset\bitset.cpp(28,10): warning C4305: “参数”: 从“int”到“const bool”截断
+C:\Users\you\source\repos\CppChengZhang\STL-容器-bitset\bitset.cpp(32,10): warning C4305: “参数”: 从“int”到“const bool”截断
+C:\Users\you\source\repos\CppChengZhang\STL-容器-bitset\bitset.cpp(34,20): warning C4018: “<”: 有符号/无符号不匹配
+  STL-容器-bitset.vcxproj -> C:\Users\you\source\repos\CppChengZhang\Debug\STL-容器-bitset.exe

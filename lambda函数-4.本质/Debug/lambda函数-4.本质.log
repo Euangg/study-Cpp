@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(C++-lambda-本质.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  lambda函数的本质.cpp
+C:\Users\you\source\repos\CppChengZhang\lambda函数-4.本质\lambda函数的本质.cpp(18,13): warning C4930: “MyFunction func(void)”: 未调用原型函数(是否是有意用变量定义的?)
+C:\Users\you\source\repos\CppChengZhang\lambda函数-4.本质\lambda函数的本质.cpp(18,13): warning C4101: “func”: 未引用的局部变量
+  lambda函数-4.本质.vcxproj -> C:\Users\you\source\repos\CppChengZhang\Debug\C++-lambda-02通过函数指针使用.exe

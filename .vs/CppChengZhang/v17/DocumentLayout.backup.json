@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\you\\source\\repos\\CppChengZhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71114F36-B113-42B4-AB7F-C35C519207D6}|111aaa\\111aaa.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71114F36-B113-42B4-AB7F-C35C519207D6}|111aaa\\111aaa.vcxproj|solutionrelative:111aaa\\main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D800C9F7-C561-47E5-B4D2-4838DAA8EFB0}|C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C98.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D800C9F7-C561-47E5-B4D2-4838DAA8EFB0}|C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98.vcxproj|solutionrelative:C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C98.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71114F36-B113-42B4-AB7F-C35C519207D6}|111aaa\\111aaa.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71114F36-B113-42B4-AB7F-C35C519207D6}|111aaa\\111aaa.vcxproj|solutionrelative:111aaa\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71114F36-B113-42B4-AB7F-C35C519207D6}|111aaa\\111aaa.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71114F36-B113-42B4-AB7F-C35C519207D6}|111aaa\\111aaa.vcxproj|solutionrelative:111aaa\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC1293B-94E5-4695-B38C-0D4DD3A0AB04}|\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7B80\u5355\u94FE\u8868.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BC1293B-94E5-4695-B38C-0D4DD3A0AB04}|\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868.vcxproj|solutionrelative:\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7B80\u5355\u94FE\u8868.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2981AE-71F7-47CF-B0FA-781FEFC038A4}|\u667A\u80FD\u6307\u9488-weak_ptr\\\u667A\u80FD\u6307\u9488-weak_ptr.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\\u667A\u80FD\u6307\u9488-weak_ptr\\weak_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB2981AE-71F7-47CF-B0FA-781FEFC038A4}|\u667A\u80FD\u6307\u9488-weak_ptr\\\u667A\u80FD\u6307\u9488-weak_ptr.vcxproj|solutionrelative:\u667A\u80FD\u6307\u9488-weak_ptr\\weak_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15392818-6B5D-45BF-B42C-4A8F7DAC7751}|VS-\u91CD\u6784\u6570\u636E\u5E93\\VS-\u91CD\u6784\u6570\u636E\u5E93.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\VS-\u91CD\u6784\u6570\u636E\u5E93\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15392818-6B5D-45BF-B42C-4A8F7DAC7751}|VS-\u91CD\u6784\u6570\u636E\u5E93\\VS-\u91CD\u6784\u6570\u636E\u5E93.vcxproj|solutionrelative:VS-\u91CD\u6784\u6570\u636E\u5E93\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE2E6F6-9355-4F55-8219-73E1645C9D97}|Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE.vcxproj|C:\\Users\\you\\source\\repos\\CppChengZhang\\Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\\u81EA\u5B9A\u4E49\u5149\u6807.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE2E6F6-9355-4F55-8219-73E1645C9D97}|Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE.vcxproj|solutionrelative:Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\\u81EA\u5B9A\u4E49\u5149\u6807.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C98.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C98.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C98.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C98.cpp",
+              "RelativeToolTip": "C\u002B\u002B-\u6807\u51C6-01C\u002B\u002B98\\C98.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T12:56:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main2.cpp",
+              "RelativeDocumentMoniker": "111aaa\\main2.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main2.cpp",
+              "RelativeToolTip": "111aaa\\main2.cpp",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwK8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T12:13:25.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main.cpp",
+              "RelativeDocumentMoniker": "111aaa\\main.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main.cpp",
+              "RelativeToolTip": "111aaa\\main.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T12:13:23.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main3.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main3.cpp",
+              "RelativeDocumentMoniker": "111aaa\\main3.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\111aaa\\main3.cpp",
+              "RelativeToolTip": "111aaa\\main3.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T12:12:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "weak_ptr.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\\u667A\u80FD\u6307\u9488-weak_ptr\\weak_ptr.cpp",
+              "RelativeDocumentMoniker": "\u667A\u80FD\u6307\u9488-weak_ptr\\weak_ptr.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\\u667A\u80FD\u6307\u9488-weak_ptr\\weak_ptr.cpp",
+              "RelativeToolTip": "\u667A\u80FD\u6307\u9488-weak_ptr\\weak_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T09:21:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u7B80\u5355\u94FE\u8868.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7B80\u5355\u94FE\u8868.cpp",
+              "RelativeDocumentMoniker": "\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7B80\u5355\u94FE\u8868.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7B80\u5355\u94FE\u8868.cpp",
+              "RelativeToolTip": "\u7ED3\u6784\u4F53-6.\u7ED3\u6784\u4F53\u8FD0\u7528\u5B9E\u4F8B\u2014\u2014\u7B80\u5355\u94FE\u8868\\\u7B80\u5355\u94FE\u8868.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T09:15:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\VS-\u91CD\u6784\u6570\u636E\u5E93\\main.cpp",
+              "RelativeDocumentMoniker": "VS-\u91CD\u6784\u6570\u636E\u5E93\\main.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\VS-\u91CD\u6784\u6570\u636E\u5E93\\main.cpp",
+              "RelativeToolTip": "VS-\u91CD\u6784\u6570\u636E\u5E93\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T16:15:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u81EA\u5B9A\u4E49\u5149\u6807.cpp",
+              "DocumentMoniker": "C:\\Users\\you\\source\\repos\\CppChengZhang\\Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\\u81EA\u5B9A\u4E49\u5149\u6807.cpp",
+              "RelativeDocumentMoniker": "Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\\u81EA\u5B9A\u4E49\u5149\u6807.cpp",
+              "ToolTip": "C:\\Users\\you\\source\\repos\\CppChengZhang\\Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\\u81EA\u5B9A\u4E49\u5149\u6807.cpp",
+              "RelativeToolTip": "Win32-\u81EA\u5B9A\u4E49\u5149\u6807\u8D34\u56FE\\\u81EA\u5B9A\u4E49\u5149\u6807.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T06:44:28.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
