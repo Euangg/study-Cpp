@@ -1,6 +1,3 @@
-#include<iostream>
-using namespace std;
-
 //头文件(.h)
 //指定命名空间
 //声明全局变量
@@ -12,8 +9,7 @@ using namespace std;
 //类的定义
 
 
+#include"h.h"
 int main() {
-
-
-	return 0;
+	test();
 }

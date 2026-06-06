@@ -20,7 +20,27 @@ void test1() {
 	};
 }
 
-int main() {
-	test1();
+//ÅĞ¶ÏÏàµÈ
+void test2() {
+	string s1 = "asdfd";
+	if (s1 == "asdf")cout << "=asdf" << endl;
+	else cout << "!=asdf" << endl;
+}
 
+//boolÅĞ¶Ï£¬Îª¿Õ
+void test3() {
+	string s1 = "";
+	string s2 = "a";
+
+	if (s1.size()) { cout << "s1=true" << endl; }
+	else cout << "s1=false" << endl;
+
+	if (s2.size()) { cout << "s2=true" << endl; }
+	else cout << "s2=false" << endl;
+}
+
+int main() {
+	//test1();
+	//test2();
+	test3();
 }

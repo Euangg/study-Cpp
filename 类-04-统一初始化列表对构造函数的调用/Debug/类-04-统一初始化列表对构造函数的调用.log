@@ -1,0 +1,3 @@
+﻿  初始化列表对构造函数的调用.cpp
+C:\Users\you\source\repos\CppChengZhang\类-04-统一初始化列表对构造函数的调用\初始化列表对构造函数的调用.cpp(16,11): warning C4930: “MyStruct m3(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  类-04-统一初始化列表对构造函数的调用.vcxproj -> C:\Users\you\source\repos\CppChengZhang\Debug\类-04-统一初始化列表对构造函数的调用.exe

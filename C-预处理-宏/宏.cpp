@@ -1,9 +1,12 @@
 #include<iostream>
 
+//转字符串(将x替换成"x")，#给参数加""
+#define STR(x)#x
+
+
 //#define CONTACT2(x,y)CONTACT(x,y)
 //拼接
-//转字符串
-#define STR(x)#x			
+		
 #define STR2(x)STR(x)
 #define build_id_str(x) level_##x
 int main() {

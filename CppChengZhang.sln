@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.35325.158
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象和类-浅拷贝与深拷贝", "CppChengZhang\CppChengZhang.vcxproj", "{F1B1EC7A-6E14-4032-921A-E4154F36DB1A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-浅拷贝与深拷贝", "CppChengZhang\CppChengZhang.vcxproj", "{F1B1EC7A-6E14-4032-921A-E4154F36DB1A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-初始化列表", "初始化列表\初始化列表.vcxproj", "{35EED117-8331-4406-9F11-83030B609EDB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-初始化列表", "初始化列表\初始化列表.vcxproj", "{35EED117-8331-4406-9F11-83030B609EDB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-关键字-const-修饰成员函数", "const修饰成员函数\const修饰成员函数.vcxproj", "{77EE302B-4BB4-4387-8ED7-C886C5A9245D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-this指针", "this指针\this指针.vcxproj", "{E602128C-3D92-4810-8759-314085EC2CAD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-this指针", "this指针\this指针.vcxproj", "{E602128C-3D92-4810-8759-314085EC2CAD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象和类-静态成员", "对象和类-静态成员\对象和类-静态成员.vcxproj", "{11EC3BFA-911F-44B5-B772-523434DEDF3E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-静态成员", "对象和类-静态成员\对象和类-静态成员.vcxproj", "{11EC3BFA-911F-44B5-B772-523434DEDF3E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-简单对象模型", "对象和类-简单对象模型\对象和类-简单对象模型.vcxproj", "{0FB89D6B-6338-40F6-82C0-E8573DDC5C1B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-简单对象模型", "对象和类-简单对象模型\对象和类-简单对象模型.vcxproj", "{0FB89D6B-6338-40F6-82C0-E8573DDC5C1B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-封装-友元", "使用类-友元\使用类-友元.vcxproj", "{86584D6A-2369-4567-BBE3-A3A0359E6AC6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-封装-友元", "使用类-友元\使用类-友元.vcxproj", "{86584D6A-2369-4567-BBE3-A3A0359E6AC6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-运算符-移位", "X-位操作\X-位操作.vcxproj", "{8CBE21B1-1C88-4BA0-84C7-DDDBE860D892}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-operator-运算符重载", "使用类-2.运算符重载\使用类-2.运算符重载.vcxproj", "{89EE6242-CFB7-411F-B16C-644AD9F19ABD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-operator-运算符重载", "使用类-2.运算符重载\使用类-2.运算符重载.vcxproj", "{89EE6242-CFB7-411F-B16C-644AD9F19ABD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-operator-重载关系运算符", "使用类-3.重载关系运算符\使用类-3.重载关系运算符.vcxproj", "{660B0D41-B27E-418D-A4EB-ACDF65FD43AC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-operator-重载关系运算符", "使用类-3.重载关系运算符\使用类-3.重载关系运算符.vcxproj", "{660B0D41-B27E-418D-A4EB-ACDF65FD43AC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-指针-函数指针", "函数指针和回调函数\函数指针和回调函数.vcxproj", "{DB1BD162-0E75-4F1B-ABA7-E89899EC7AE3}"
 EndProject
@@ -47,15 +47,15 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-指针-引用的本质", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-指针-引用传参", "引用用于函数的参数\引用用于函数的参数.vcxproj", "{1F3D7825-8347-4C4B-9B21-BEF79D7C1904}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-4.重载左移运算符", "使用类-4.重载左移运算符\使用类-4.重载左移运算符.vcxproj", "{7B5509F8-C7DD-44A7-A4DB-0599AD275E81}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-4.重载左移运算符", "使用类-4.重载左移运算符\使用类-4.重载左移运算符.vcxproj", "{7B5509F8-C7DD-44A7-A4DB-0599AD275E81}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-5.重载下标运算符", "使用类-5.重载下标运算符\使用类-5.重载下标运算符.vcxproj", "{520D080A-48D2-4F6A-AC31-F4D385416B07}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-5.重载下标运算符", "使用类-5.重载下标运算符\使用类-5.重载下标运算符.vcxproj", "{520D080A-48D2-4F6A-AC31-F4D385416B07}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-函数-递归函数", "递归函数\递归函数.vcxproj", "{BE402FD6-F0F0-46AA-89CC-4A2DD6E6782C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-初始化赋值", "12 C++11初始化赋值\12 C++11初始化赋值.vcxproj", "{D7FAEEB1-277A-4FC3-9F94-58E0DE7BE112}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-函数-函数分文件编写", "函数分文件编写\函数分文件编写.vcxproj", "{61DC21CB-85ED-4E12-B779-0253964953C5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "架构-头文件中、函数定义", "函数分文件编写\函数分文件编写.vcxproj", "{61DC21CB-85ED-4E12-B779-0253964953C5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件流-1.写入文本文件", "文件操作-1.写入文本文件\文件操作-1.写入文本文件.vcxproj", "{5B7D2B9F-FBAA-451C-A4F7-6016DAE4FA65}"
 EndProject
@@ -75,51 +75,51 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作-8.缓冲区和
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-异常", "C++异常\C++异常.vcxproj", "{A0295C2A-2A74-41DD-876F-CFE4FD1ED3A2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-继承-01基本概念", "类继承\类继承.vcxproj", "{4CF0CE92-50D4-4EE2-BB04-56D3FA40C5F0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-继承-01基本概念", "类继承\类继承.vcxproj", "{4CF0CE92-50D4-4EE2-BB04-56D3FA40C5F0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-继承-02继承方式", "类继承-2.继承方式\类继承-2.继承方式.vcxproj", "{0C40AD89-C385-4E63-9D38-0EFA56A22419}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-继承-02继承方式", "类继承-2.继承方式\类继承-2.继承方式.vcxproj", "{0C40AD89-C385-4E63-9D38-0EFA56A22419}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类继承-3.继承的对象模型", "类继承-3.继承的对象模型\类继承-3.继承的对象模型.vcxproj", "{C23D79B0-A29C-475E-8DFB-C9114B2FFB2F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-3.继承的对象模型", "类继承-3.继承的对象模型\类继承-3.继承的对象模型.vcxproj", "{C23D79B0-A29C-475E-8DFB-C9114B2FFB2F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-6.重载赋值运算符", "使用类-6.重载赋值运算符\使用类-6.重载赋值运算符.vcxproj", "{4F964D36-5E75-43AD-9F73-AB5013748F7D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-6.重载赋值运算符", "使用类-6.重载赋值运算符\使用类-6.重载赋值运算符.vcxproj", "{4F964D36-5E75-43AD-9F73-AB5013748F7D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-关键字-const", "X-const关键字\X-const关键字.vcxproj", "{26EE8237-B345-4A13-AAA2-05F00CFA827B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-7.重载new和delete运算符", "使用类-7.重载new和delete运算符\使用类-7.重载new和delete运算符.vcxproj", "{489D0AD4-BF5F-4FE5-94B7-024C7C68B345}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-7.重载new和delete运算符", "使用类-7.重载new和delete运算符\使用类-7.重载new和delete运算符.vcxproj", "{489D0AD4-BF5F-4FE5-94B7-024C7C68B345}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-8.内存池", "使用类-8.内存池\使用类-8.内存池.vcxproj", "{73A5A8F3-45EF-463C-A2EA-3B580690B5DF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-8.内存池", "使用类-8.内存池\使用类-8.内存池.vcxproj", "{73A5A8F3-45EF-463C-A2EA-3B580690B5DF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-operator-()、仿函数", "使用类-9.重载括号运算符\使用类-9.重载括号运算符.vcxproj", "{1E17E653-4EEF-42DE-ABD2-91BB9DBADDDE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-operator-()、仿函数", "使用类-9.重载括号运算符\使用类-9.重载括号运算符.vcxproj", "{1E17E653-4EEF-42DE-ABD2-91BB9DBADDDE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-异常-如何避免", "如何避免异常‘\如何避免异常‘.vcxproj", "{42EA77B7-DC6E-469A-81D3-F76550638E43}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-operator-重载一元运算符", "使用类-10.重载一元运算符\使用类-10.重载一元运算符.vcxproj", "{E3D2C5A0-F2BA-42C7-9EB4-AFF9F1D9C3DD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-operator-重载一元运算符", "使用类-10.重载一元运算符\使用类-10.重载一元运算符.vcxproj", "{E3D2C5A0-F2BA-42C7-9EB4-AFF9F1D9C3DD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-11.自动类型转换（指定类型到类）", "使用类-11.自动类型转换\使用类-11.自动类型转换.vcxproj", "{5650AA29-E515-4C40-9C6B-3AADC87E41C7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-11.自动类型转换（指定类型到类）", "使用类-11.自动类型转换\使用类-11.自动类型转换.vcxproj", "{5650AA29-E515-4C40-9C6B-3AADC87E41C7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windows-文件-文件夹操作", "VC1-23.文件夹的基本操作\VC1-23.文件夹的基本操作.vcxproj", "{32BA93BF-A944-46B9-9E08-B25758E2B443}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windows-文件-获取系统特殊路径", "VC1-24.系统各种路径信息的获取\VC1-24.系统各种路径信息的获取.vcxproj", "{BE6487CB-F5AD-4468-BE05-74E6E02501BF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类继承-4.如何构造基类", "类继承-4.如何构造基类\类继承-4.如何构造基类.vcxproj", "{E05EF235-3A82-417D-B0AC-BE66D675D456}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-4.如何构造基类", "类继承-4.如何构造基类\类继承-4.如何构造基类.vcxproj", "{E05EF235-3A82-417D-B0AC-BE66D675D456}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类继承-5.名字遮蔽与类作用域", "类继承-5.名字遮蔽与类作用域\类继承-5.名字遮蔽与类作用域.vcxproj", "{42A40F3A-E37E-49BE-93C7-1F607BB81142}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-5.名字遮蔽与类作用域", "类继承-5.名字遮蔽与类作用域\类继承-5.名字遮蔽与类作用域.vcxproj", "{42A40F3A-E37E-49BE-93C7-1F607BB81142}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类继承-6.继承的特殊关系", "类继承-6.继承的特殊关系\类继承-6.继承的特殊关系.vcxproj", "{BB9675D4-6324-4B19-8B5B-8BF1979055E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-6.继承的特殊关系", "类继承-6.继承的特殊关系\类继承-6.继承的特殊关系.vcxproj", "{BB9675D4-6324-4B19-8B5B-8BF1979055E6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类继承-7.多继承与虚继承", "类继承-7.多继承与虚继承\类继承-7.多继承与虚继承.vcxproj", "{57FAA093-55FD-4AF7-A89B-50D87E51DE6B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-7.多继承与虚继承", "类继承-7.多继承与虚继承\类继承-7.多继承与虚继承.vcxproj", "{57FAA093-55FD-4AF7-A89B-50D87E51DE6B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-多态-01多态的基本概念", "类多态-1.多态的基本概念\类多态-1.多态的基本概念.vcxproj", "{3A96D746-04E5-4400-A8D1-2715EBBB7361}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-多态-01多态的基本概念", "类多态-1.多态的基本概念\类多态-1.多态的基本概念.vcxproj", "{3A96D746-04E5-4400-A8D1-2715EBBB7361}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-多态-02多态的应用场景", "类多态-2.多态的应用场景\类多态-2.多态的应用场景.vcxproj", "{D3A51754-2D28-45E3-BFDA-4404243B9DFB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-多态-02多态的应用场景", "类多态-2.多态的应用场景\类多态-2.多态的应用场景.vcxproj", "{D3A51754-2D28-45E3-BFDA-4404243B9DFB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-多态-03多态的对象模型", "类多态-3.多态的对象模型\类多态-3.多态的对象模型.vcxproj", "{0B385A58-76A0-4576-A4A2-7D2D3814CACE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-多态-03多态的对象模型", "类多态-3.多态的对象模型\类多态-3.多态的对象模型.vcxproj", "{0B385A58-76A0-4576-A4A2-7D2D3814CACE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类多态-4.如何析构派生类", "类多态-4.如何析构派生类\类多态-4.如何析构派生类.vcxproj", "{A0C23E6A-8063-451E-8FBD-091FA5E36FCA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-4.如何析构派生类", "类多态-4.如何析构派生类\类多态-4.如何析构派生类.vcxproj", "{A0C23E6A-8063-451E-8FBD-091FA5E36FCA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类多态-5.纯虚函数和抽象类", "类多态-5.纯虚函数和抽象类\类多态-5.纯虚函数和抽象类.vcxproj", "{31D3987E-472A-49AF-8ED1-0951E73F73C6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-5.纯虚函数和抽象类", "类多态-5.纯虚函数和抽象类\类多态-5.纯虚函数和抽象类.vcxproj", "{31D3987E-472A-49AF-8ED1-0951E73F73C6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类多态-6.运行阶段类型识别dynamic_cast", "类多态-6.运行阶段类型识别dynamic_cast\类多态-6.运行阶段类型识别dynamic_cast.vcxproj", "{FB5BA149-F8A4-4EB9-8BA9-2553550E59D5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-6.运行阶段类型识别dynamic_cast", "类多态-6.运行阶段类型识别dynamic_cast\类多态-6.运行阶段类型识别dynamic_cast.vcxproj", "{FB5BA149-F8A4-4EB9-8BA9-2553550E59D5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-关键字-typeid", "Project1\Project1.vcxproj", "{F13D45BF-B266-4922-9B1E-30A9F17BA9CD}"
 EndProject
@@ -155,7 +155,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "泛编程-3.类模板-9.模
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "template-类模板-10将模板类用作参数", "泛编程-3.类模板-10.将模板类用作参数\泛编程-3.类模板-10.将模板类用作参数.vcxproj", "{7CDA8E05-1A9A-4CC2-9D3E-EB87AFD6DB51}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编译器-预处理", "编译预处理\编译预处理.vcxproj", "{1BB9E688-5157-46EE-9505-2C27BFF71F8C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "预处理", "编译预处理\编译预处理.vcxproj", "{1BB9E688-5157-46EE-9505-2C27BFF71F8C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编译器-文件分布", "编译和链接\编译和链接.vcxproj", "{BF560CDF-DE4C-4870-B7FA-C52CDB66F226}"
 EndProject
@@ -261,9 +261,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VC-异步IO模型-1.select�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VC-异步IO模型-2.WSAAsyncSelect异步选择模型-Client", "VC-异步IO模型-WSAAsyncSelect异步选择模型-Client\VC-异步IO模型-WSAAsyncSelect异步选择模型-Client.vcxproj", "{964A2D54-E4D2-49A8-A25F-D6F951FF2C54}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-数据-自定类型-共用体", "77 共同体\77 共同体.vcxproj", "{F8091749-15B5-4BD5-94F5-81DAD965E5E4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-01union", "77 共同体\77 共同体.vcxproj", "{F8091749-15B5-4BD5-94F5-81DAD965E5E4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-数据-自定类型-枚举", "78 枚举4\78 枚举4.vcxproj", "{465E42FF-8757-4361-9DD0-FA86D9C1C5AE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-数据-枚举", "78 枚举4\78 枚举4.vcxproj", "{465E42FF-8757-4361-9DD0-FA86D9C1C5AE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "X-Cpp_Python-Console", "X-Cpp_Python\X-Cpp_Python.vcxproj", "{B596FBF0-A414-4602-BA8D-8532079A8374}"
 EndProject
@@ -275,21 +275,21 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-memory-unique_ptr", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "设计模式-01单例模式-01简单单例", "设计模式-1.单例模式\设计模式-1.单例模式.vcxproj", "{328FB879-9D86-4E06-B0B5-0020B19F0D2B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-从结构体到类", "面向对象-1.从结构体到类\面向对象-1.从结构体到类.vcxproj", "{FB20A5D3-6211-49C6-B1F2-99C344F251B7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-struct与class", "面向对象-1.从结构体到类\面向对象-1.从结构体到类.vcxproj", "{FB20A5D3-6211-49C6-B1F2-99C344F251B7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-1.对象和类-2.类的访问权限", "面向对象-1.对象和类-2.类的访问权限\面向对象-1.对象和类-2.类的访问权限.vcxproj", "{D98C5EC5-837A-425D-816F-49913379CCA6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-1.对象和类-2.类的访问权限", "面向对象-1.对象和类-2.类的访问权限\面向对象-1.对象和类-2.类的访问权限.vcxproj", "{D98C5EC5-837A-425D-816F-49913379CCA6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-1.对象和类-3.简单使用类", "面向对象-1.对象和类-3.简单使用类\面向对象-1.对象和类-3.简单使用类.vcxproj", "{92192633-4E87-47CC-9E56-882650F08EE3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-1.对象和类-3.简单使用类", "面向对象-1.对象和类-3.简单使用类\面向对象-1.对象和类-3.简单使用类.vcxproj", "{92192633-4E87-47CC-9E56-882650F08EE3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-结构体-01.声明", "结构体-1.基本概念\结构体-1.基本概念.vcxproj", "{EC16354B-8238-4376-81BA-0F20E53A09AF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-02声明", "结构体-1.基本概念\结构体-1.基本概念.vcxproj", "{EC16354B-8238-4376-81BA-0F20E53A09AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-指针-结构体指针", "结构体-2.结构体指针\结构体-2.结构体指针.vcxproj", "{9610058E-415B-4B09-BF0D-8F06B6BB20B7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构体-3.结构体数组", "结构体-3.结构体数组\结构体-3.结构体数组.vcxproj", "{18C24D54-563C-480F-828D-C5996F9F3461}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-3.结构体数组", "结构体-3.结构体数组\结构体-3.结构体数组.vcxproj", "{18C24D54-563C-480F-828D-C5996F9F3461}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构体-4.结构体嵌入数组和结构体", "结构体-4.结构体嵌入数组和结构体\结构体-4.结构体嵌入数组和结构体.vcxproj", "{98965FCE-07CF-4692-9B56-EC14B201AF5B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-06结构体互嵌", "结构体-4.结构体嵌入数组和结构体\结构体-4.结构体嵌入数组和结构体.vcxproj", "{98965FCE-07CF-4692-9B56-EC14B201AF5B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构体-5.结构体中的指针", "结构体-5.结构体中的指针\结构体-5.结构体中的指针.vcxproj", "{0809788C-8CC5-42D8-A8C1-4B536A25BD45}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-5.结构体中的指针", "结构体-5.结构体中的指针\结构体-5.结构体中的指针.vcxproj", "{0809788C-8CC5-42D8-A8C1-4B536A25BD45}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数构-简单链表", "结构体-6.结构体运用实例——简单链表\结构体-6.结构体运用实例——简单链表.vcxproj", "{8BC1293B-94E5-4695-B38C-0D4DD3A0AB04}"
 EndProject
@@ -307,13 +307,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-lambda-捕获列表", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-lambda-02通过函数指针使用", "lambda函数-4.本质\lambda函数-4.本质.vcxproj", "{F9A390CC-EB37-4302-88ED-3FAC54EA46B7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象和类-拷贝构造函数", "对象和类-拷贝构造函数\对象和类-拷贝构造函数.vcxproj", "{6B03BDBC-9A47-4535-BFC1-9917D2AA5B70}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-拷贝构造函数", "对象和类-拷贝构造函数\对象和类-拷贝构造函数.vcxproj", "{6B03BDBC-9A47-4535-BFC1-9917D2AA5B70}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-12.转换函数（类到指定类型）", "使用类-12.转换函数\使用类-12.转换函数.vcxproj", "{D5EA3A70-C468-48BF-921D-3CC388523973}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-12.转换函数（类到指定类型）", "使用类-12.转换函数\使用类-12.转换函数.vcxproj", "{D5EA3A70-C468-48BF-921D-3CC388523973}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-11-2.自动类型转换（explicit）", "使用类-11-2.自动类型转换（explicit）\使用类-11-2.自动类型转换（explicit）.vcxproj", "{79201410-19BC-4A49-8A7D-1908B6EB83FA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-11-2.自动类型转换（explicit）", "使用类-11-2.自动类型转换（explicit）\使用类-11-2.自动类型转换（explicit）.vcxproj", "{79201410-19BC-4A49-8A7D-1908B6EB83FA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用类-12-2.转换函数（explicit）", "使用类-12-2.转换函数（explicit）\使用类-12-2.转换函数（explicit）.vcxproj", "{FEE9E6F7-1348-46D8-A8FD-011FCA78272C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-12-2.转换函数（explicit）", "使用类-12-2.转换函数（explicit）\使用类-12-2.转换函数（explicit）.vcxproj", "{FEE9E6F7-1348-46D8-A8FD-011FCA78272C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-函数-重载的细节", "函数重载的细节\函数重载的细节.vcxproj", "{975D1C88-1B66-4F50-A756-A2228C1B9C3E}"
 EndProject
@@ -365,7 +365,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-标准库-string.h", "C�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-语法-break", "C-语法-break\C-语法-break.vcxproj", "{F8F79347-2E6B-44D1-90C6-16A21166F97E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-封装-默认成员函数", "C++-类-特殊成员函数\C++-类-特殊成员函数.vcxproj", "{B0256FE5-C7F7-4EC0-9406-AF226859EB2B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-封装-默认成员函数", "C++-类-特殊成员函数\C++-类-特殊成员函数.vcxproj", "{B0256FE5-C7F7-4EC0-9406-AF226859EB2B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-适配器-queue", "STL-queue\STL-queue.vcxproj", "{990981BE-BFFF-423C-9B5D-DE7DEA7E041E}"
 EndProject
@@ -431,9 +431,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "template-默认模板参数
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-关键字-using", "C++-关键字-using\C++-关键字-using.vcxproj", "{66EDD623-F50D-4051-B6FF-3FF2F370214C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-封装-委托构造函数", "C++-类-封装-委托构造函数\C++-类-封装-委托构造函数.vcxproj", "{66C8DD5B-2363-408D-903C-9F22387FBE13}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-封装-委托构造函数", "C++-类-封装-委托构造函数\C++-类-封装-委托构造函数.vcxproj", "{66C8DD5B-2363-408D-903C-9F22387FBE13}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-封装-继承构造函数", "C++-类-封装-继承构造函数\C++-类-封装-继承构造函数.vcxproj", "{EF9C4F2C-5AA6-4E5E-BA31-8B94411FACE8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-封装-继承构造函数", "C++-类-封装-继承构造函数\C++-类-封装-继承构造函数.vcxproj", "{EF9C4F2C-5AA6-4E5E-BA31-8B94411FACE8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EC++-11在operate=中处理“自我赋值”", "EC++-11.在operate=中处理“自我赋值”\EC++-11.在operate=中处理“自我赋值”.vcxproj", "{FFFDC46F-929B-4C28-AAB5-AA773511BADF}"
 EndProject
@@ -527,7 +527,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-数组", "C-数据-数组
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件流-通用-csv", "文件操作-csv\文件操作-csv.vcxproj", "{20D1BC94-F131-468F-897F-E8D7FA7E766C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编译器-预处理-宏", "C-预处理-宏\C-预处理-宏.vcxproj", "{45F74619-8BBE-4347-B77E-EA4CF3B99BAF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "预处理-宏替换", "C-预处理-宏\C-预处理-宏.vcxproj", "{45F74619-8BBE-4347-B77E-EA4CF3B99BAF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "111aaa", "111aaa\111aaa.vcxproj", "{71114F36-B113-42B4-AB7F-C35C519207D6}"
 EndProject
@@ -563,9 +563,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-语法-三元运算符", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-random", "C++-标准库-random\C++-标准库-random.vcxproj", "{4B628831-1E32-4F17-82C8-5467E3571CD0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-多态-04析构函数", "面向对象-多态-04析构函数\面向对象-多态-04析构函数.vcxproj", "{259DB2E6-8D06-4562-B4B3-57D3E5333F10}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类多态-04析构函数", "面向对象-多态-04析构函数\面向对象-多态-04析构函数.vcxproj", "{259DB2E6-8D06-4562-B4B3-57D3E5333F10}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-封装-类型交叉包含", "OO-封装-类型交叉包含\OO-封装-类型交叉包含.vcxproj", "{92F72C03-18FB-4567-94BF-091BF5C144CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-封装-类型交叉包含", "OO-封装-类型交叉包含\OO-封装-类型交叉包含.vcxproj", "{92F72C03-18FB-4567-94BF-091BF5C144CC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线程-Windows-01创建线程", "线程-Windows-01创建线程\线程-Windows-01创建线程.vcxproj", "{0AD37D5D-B1D8-4742-BD36-29DD6D93B55E}"
 EndProject
@@ -581,9 +581,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编译器-文件分布-结�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windows-文件-读取文件数据", "Windows-读取文件数据\Windows-读取文件数据.vcxproj", "{6DAC549D-DAB0-435F-8066-56459120346E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编译器-文件分布-跨文件函数", "编译器-文件分布-跨文件函数\编译器-文件分布-跨文件函数.vcxproj", "{3E10583C-9917-490E-BF7F-582635DBF682}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "架构-不通过h文件、访问其他cpp函数", "编译器-文件分布-跨文件函数\编译器-文件分布-跨文件函数.vcxproj", "{3E10583C-9917-490E-BF7F-582635DBF682}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32-窗口", "Windows-窗口\Windows-窗口.vcxproj", "{E70E4DD3-A5BE-417E-89D5-6541272ECC7A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windows-消息-退出", "Windows-窗口\Windows-窗口.vcxproj", "{E70E4DD3-A5BE-417E-89D5-6541272ECC7A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串-wstring与string相互转换", "字符串-wstring\字符串-wstring.vcxproj", "{999F412D-DAE8-42E4-8F3D-2692F96C0707}"
 EndProject
@@ -605,7 +605,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32-自定义光标贴图
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VS-重构数据库", "VS-重构数据库\VS-重构数据库.vcxproj", "{15392818-6B5D-45BF-B42C-4A8F7DAC7751}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-结构体-02.初始化", "C-自定类型-结构体-定义\C-自定类型-结构体-定义.vcxproj", "{433BF4C2-CADD-4BC2-A41E-3FE1064D00FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-03初始化", "C-自定类型-结构体-定义\C-自定类型-结构体-定义.vcxproj", "{433BF4C2-CADD-4BC2-A41E-3FE1064D00FC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-random-2.加权抽奖(离散分布)", "STL-random-1.加权抽奖\STL-random-1.加权抽奖.vcxproj", "{BC2B9468-4595-4388-AD05-0A0964E3C047}"
 EndProject
@@ -617,7 +617,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-memory-shared_ptr-4.C�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-数组-二维数组", "C-数组-二维数组\C-数组-二维数组.vcxproj", "{06FD36AE-6B0E-408B-96A8-C9A7F86C375A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-结构体-03.声明后定义", "C-结构体-03.声明后定义\C-结构体-03.声明后定义.vcxproj", "{04B99ED7-3AE5-4B3E-962C-820189D4AA52}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-05声明后定义", "C-结构体-03.声明后定义\C-结构体-03.声明后定义.vcxproj", "{04B99ED7-3AE5-4B3E-962C-820189D4AA52}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-memory-shared_ptr-1.使用", "STL-memory-shared_ptr-1.使用\STL-memory-shared_ptr-1.使用.vcxproj", "{05F49C04-17E3-4475-9D8D-52D6A2914A71}"
 EndProject
@@ -633,7 +633,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-functional-function", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-函数-形参", "C-函数-形参\C-函数-形参.vcxproj", "{9EB7E733-D3D1-4452-818F-04E4B2505D5D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OO-operator-+=", "OO-operator-+=\OO-operator-+=.vcxproj", "{F4AC7EFA-A7FF-4B86-86A3-2C90730BDF93}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-operator-+=", "OO-operator-+=\OO-operator-+=.vcxproj", "{F4AC7EFA-A7FF-4B86-86A3-2C90730BDF93}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-random-3.正态分布", "STL-random-3.正态分布\STL-random-3.正态分布.vcxproj", "{16DEDC31-407D-4DD6-9F49-610C03FC75C2}"
 EndProject
@@ -642,6 +642,14 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-01基本数据类型", "C-基本类型\C-基本类型.vcxproj", "{3C95A9C8-D3F4-4CE1-9581-F7A7DE242160}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编译器-右值2", "编译器-右值2\编译器-右值2.vcxproj", "{096D5A38-37CC-4C44-8E24-15118E93543F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-04-统一初始化列表对构造函数的调用", "类-04-统一初始化列表对构造函数的调用\类-04-统一初始化列表对构造函数的调用.vcxproj", "{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "架构-头文件中、namespace中、函数定义", "架构-头文件中、namespace中、函数定义\架构-头文件中、namespace中、函数定义.vcxproj", "{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-容器-unordered_map", "STL-容器-unordered_map\STL-容器-unordered_map.vcxproj", "{02E2A25B-44DA-4477-9321-6D853F0DEB36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-filesystem", "STL-filesystem\STL-filesystem.vcxproj", "{231769C1-6D52-4792-84F9-51331E806768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -3211,6 +3219,38 @@ Global
 		{096D5A38-37CC-4C44-8E24-15118E93543F}.Release|x64.Build.0 = Release|x64
 		{096D5A38-37CC-4C44-8E24-15118E93543F}.Release|x86.ActiveCfg = Release|Win32
 		{096D5A38-37CC-4C44-8E24-15118E93543F}.Release|x86.Build.0 = Release|Win32
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Debug|x64.ActiveCfg = Debug|x64
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Debug|x64.Build.0 = Debug|x64
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Debug|x86.Build.0 = Debug|Win32
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Release|x64.ActiveCfg = Release|x64
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Release|x64.Build.0 = Release|x64
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Release|x86.ActiveCfg = Release|Win32
+		{9760159B-2EDF-4126-AFF2-7C3A5C7216FC}.Release|x86.Build.0 = Release|Win32
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Debug|x64.ActiveCfg = Debug|x64
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Debug|x64.Build.0 = Debug|x64
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Debug|x86.Build.0 = Debug|Win32
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Release|x64.ActiveCfg = Release|x64
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Release|x64.Build.0 = Release|x64
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Release|x86.ActiveCfg = Release|Win32
+		{9EBE7E43-FBB2-4607-AF7E-C58F22BB0CA1}.Release|x86.Build.0 = Release|Win32
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Debug|x64.ActiveCfg = Debug|x64
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Debug|x64.Build.0 = Debug|x64
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Debug|x86.ActiveCfg = Debug|Win32
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Debug|x86.Build.0 = Debug|Win32
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Release|x64.ActiveCfg = Release|x64
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Release|x64.Build.0 = Release|x64
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Release|x86.ActiveCfg = Release|Win32
+		{02E2A25B-44DA-4477-9321-6D853F0DEB36}.Release|x86.Build.0 = Release|Win32
+		{231769C1-6D52-4792-84F9-51331E806768}.Debug|x64.ActiveCfg = Debug|x64
+		{231769C1-6D52-4792-84F9-51331E806768}.Debug|x64.Build.0 = Debug|x64
+		{231769C1-6D52-4792-84F9-51331E806768}.Debug|x86.ActiveCfg = Debug|Win32
+		{231769C1-6D52-4792-84F9-51331E806768}.Debug|x86.Build.0 = Debug|Win32
+		{231769C1-6D52-4792-84F9-51331E806768}.Release|x64.ActiveCfg = Release|x64
+		{231769C1-6D52-4792-84F9-51331E806768}.Release|x64.Build.0 = Release|x64
+		{231769C1-6D52-4792-84F9-51331E806768}.Release|x86.ActiveCfg = Release|Win32
+		{231769C1-6D52-4792-84F9-51331E806768}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

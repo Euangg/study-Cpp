@@ -21,7 +21,7 @@ void pro_min() {
 void pro_clamp() {
 	int a = 10;
 	a = std::clamp(a, 2, 4);
-	cout << a << endl;
+	cout << a << endl;//会改写a的值
 }
 
 //遍历处理，for_each
@@ -57,5 +57,6 @@ void pro_all_of() {
 }
 
 int main() {
-	pro_for_each();
+	pro_clamp();
+	//pro_for_each();
 }

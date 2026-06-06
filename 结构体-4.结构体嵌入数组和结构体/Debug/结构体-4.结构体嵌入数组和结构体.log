@@ -1,1 +1,4 @@
-﻿
+﻿  结构体嵌入数组和结构体.cpp
+C:\Users\you\source\repos\CppChengZhang\结构体-4.结构体嵌入数组和结构体\结构体嵌入数组和结构体.cpp(2,17): warning C4091: “typedef ”: 没有声明变量时忽略“B”的左侧
+C:\Users\you\source\repos\CppChengZhang\结构体-4.结构体嵌入数组和结构体\结构体嵌入数组和结构体.cpp(5,7): error C2027: 使用了未定义类型“B”
+C:\Users\you\source\repos\CppChengZhang\结构体-4.结构体嵌入数组和结构体\结构体嵌入数组和结构体.cpp(2): message : 参见“B”的声明
