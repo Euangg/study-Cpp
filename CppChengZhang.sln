@@ -57,9 +57,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-初始化赋值", "12 C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "架构-头文件中、函数定义", "函数分文件编写\函数分文件编写.vcxproj", "{61DC21CB-85ED-4E12-B779-0253964953C5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件流-1.写入文本文件", "文件操作-1.写入文本文件\文件操作-1.写入文本文件.vcxproj", "{5B7D2B9F-FBAA-451C-A4F7-6016DAE4FA65}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件流-2.读取文本文件", "文件操作-2.读取文本文件\文件操作-2.读取文本文件.vcxproj", "{6AC112FB-D7D9-49AE-9860-9FDD12822A58}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-fstream-文本", "文件操作-1.写入文本文件\文件操作-1.写入文本文件.vcxproj", "{5B7D2B9F-FBAA-451C-A4F7-6016DAE4FA65}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作-3.写入二进制文件", "文件操作-3.写入二进制文件\文件操作-3.写入二进制文件.vcxproj", "{B550674E-F667-4543-85FB-1FC6F72D7B97}"
 EndProject
@@ -173,7 +171,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-数据类型-字符串-VS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "X-Socket-server", "X-Socket\X-Socket.vcxproj", "{69540A5B-5F32-42C3-B73F-43A52BABC5C6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线程-C++-01创建线程", "创建线程\创建线程.vcxproj", "{11677C3E-E9F4-4AA3-98FF-322F2D5CEEB0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-thread", "创建线程\创建线程.vcxproj", "{11677C3E-E9F4-4AA3-98FF-322F2D5CEEB0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线程-C++-02线程资源的回收", "线程资源的回收\线程资源的回收.vcxproj", "{48DA3BA9-BB22-4479-9332-253E96404136}"
 EndProject
@@ -279,7 +277,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-struct与class", "面�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-1.对象和类-2.类的访问权限", "面向对象-1.对象和类-2.类的访问权限\面向对象-1.对象和类-2.类的访问权限.vcxproj", "{D98C5EC5-837A-425D-816F-49913379CCA6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-1.对象和类-3.简单使用类", "面向对象-1.对象和类-3.简单使用类\面向对象-1.对象和类-3.简单使用类.vcxproj", "{92192633-4E87-47CC-9E56-882650F08EE3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-07成员变量", "面向对象-1.对象和类-3.简单使用类\面向对象-1.对象和类-3.简单使用类.vcxproj", "{92192633-4E87-47CC-9E56-882650F08EE3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-02声明", "结构体-1.基本概念\结构体-1.基本概念.vcxproj", "{EC16354B-8238-4376-81BA-0F20E53A09AF}"
 EndProject
@@ -299,7 +297,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图形编程-D2D中的位�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图形编程-GDI+", "图形编程-GDI+\图形编程-GDI+.vcxproj", "{B98EECF3-919D-4DF4-ACE6-2527E3F7DD1E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线程-C++11", "C++11线程\C++11线程.vcxproj", "{EF3102EF-9218-4D39-A31C-0BFC21ECB0D8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-thread-01.创建线程", "C++11线程\C++11线程.vcxproj", "{EF3102EF-9218-4D39-A31C-0BFC21ECB0D8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++-lambda-返回值", "lambda函数-2.属性\lambda函数-2.属性.vcxproj", "{71AC6409-AEB9-4530-AF2D-3103F7B3E994}"
 EndProject
@@ -533,7 +531,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "111aaa", "111aaa\111aaa.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-容器-list-2.元素操作", "STL-容器-List-2.元素操作\STL-容器-List-2.元素操作.vcxproj", "{8B387CD6-EAAD-48AA-9695-1E898C963F6C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32-窗口程序", "Windows-窗口程序\Windows-窗口程序.vcxproj", "{F0A9C0DD-5CCF-4D39-8F69-6725409F9C93}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32-01.1窗口程序", "Windows-窗口程序\Windows-窗口程序.vcxproj", "{F0A9C0DD-5CCF-4D39-8F69-6725409F9C93}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windows-dll-07动态库封装变量", "Windows-dll-07动态库封装变量\Windows-dll-07动态库封装变量.vcxproj", "{DE72720C-11DE-4465-9F55-34E09A2CE597}"
 EndProject
@@ -650,6 +648,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-容器-unordered_map", "STL-容器-unordered_map\STL-容器-unordered_map.vcxproj", "{02E2A25B-44DA-4477-9321-6D853F0DEB36}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL-filesystem", "STL-filesystem\STL-filesystem.vcxproj", "{231769C1-6D52-4792-84F9-51331E806768}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32-01.2最简窗口创建", "Win32-01.1最简窗口创建\Win32-01.1最简窗口创建.vcxproj", "{1DB8AB13-8C92-40FF-9785-7EAB64505090}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类-00聚合体", "类-00聚合体\类-00聚合体.vcxproj", "{3D584101-479D-4F9F-A0E2-C09E4B72A31A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -883,14 +885,6 @@ Global
 		{5B7D2B9F-FBAA-451C-A4F7-6016DAE4FA65}.Release|x64.Build.0 = Release|x64
 		{5B7D2B9F-FBAA-451C-A4F7-6016DAE4FA65}.Release|x86.ActiveCfg = Release|Win32
 		{5B7D2B9F-FBAA-451C-A4F7-6016DAE4FA65}.Release|x86.Build.0 = Release|Win32
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Debug|x64.ActiveCfg = Debug|x64
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Debug|x64.Build.0 = Debug|x64
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Debug|x86.ActiveCfg = Debug|Win32
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Debug|x86.Build.0 = Debug|Win32
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Release|x64.ActiveCfg = Release|x64
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Release|x64.Build.0 = Release|x64
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Release|x86.ActiveCfg = Release|Win32
-		{6AC112FB-D7D9-49AE-9860-9FDD12822A58}.Release|x86.Build.0 = Release|Win32
 		{B550674E-F667-4543-85FB-1FC6F72D7B97}.Debug|x64.ActiveCfg = Debug|x64
 		{B550674E-F667-4543-85FB-1FC6F72D7B97}.Debug|x64.Build.0 = Debug|x64
 		{B550674E-F667-4543-85FB-1FC6F72D7B97}.Debug|x86.ActiveCfg = Debug|Win32
@@ -3251,6 +3245,22 @@ Global
 		{231769C1-6D52-4792-84F9-51331E806768}.Release|x64.Build.0 = Release|x64
 		{231769C1-6D52-4792-84F9-51331E806768}.Release|x86.ActiveCfg = Release|Win32
 		{231769C1-6D52-4792-84F9-51331E806768}.Release|x86.Build.0 = Release|Win32
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Debug|x64.ActiveCfg = Debug|x64
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Debug|x64.Build.0 = Debug|x64
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Debug|x86.Build.0 = Debug|Win32
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Release|x64.ActiveCfg = Release|x64
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Release|x64.Build.0 = Release|x64
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Release|x86.ActiveCfg = Release|Win32
+		{1DB8AB13-8C92-40FF-9785-7EAB64505090}.Release|x86.Build.0 = Release|Win32
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Debug|x64.ActiveCfg = Debug|x64
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Debug|x64.Build.0 = Debug|x64
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Debug|x86.Build.0 = Debug|Win32
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Release|x64.ActiveCfg = Release|x64
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Release|x64.Build.0 = Release|x64
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Release|x86.ActiveCfg = Release|Win32
+		{3D584101-479D-4F9F-A0E2-C09E4B72A31A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

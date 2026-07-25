@@ -44,7 +44,6 @@ void test1() {
 	//	ios::trunc	截断文件内容（覆盖）
 	//	ios::app	不截断文件内容，只在文件末尾追加内容
 
-
 //读文本，按行，getline
 void test2() {
 	ifstream fin("test.txt");//输入流
@@ -62,7 +61,6 @@ void test2() {
 
 	fin.close();
 }
-
 //读文本，按行，>>
 void test3() {
 	ifstream fin("test.txt");//输入流
@@ -71,8 +69,12 @@ void test3() {
 }
 
 
+//写入二进制
+void test4(){}
+
+
 int main() {
 	test1();
 	//test2();
-	test3();
+	//test3();
 }

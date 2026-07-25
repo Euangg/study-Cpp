@@ -13,7 +13,6 @@ DWORD CALLBACK Thread(LPVOID) {
 	cout << "Æô¶¯Ïß³Ì" << endl;
 	WinSockInit();
 
-
 	sockaddr_in clientInfo;
 	int iLenClientInfo;
 
